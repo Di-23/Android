@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "111377422815",
+    "firebase_url": "https://my-quiz-1812a.firebaseio.com",
+    "project_id": "my-quiz-1812a",
+    "storage_bucket": "my-quiz-1812a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111377422815:android:21c433da91599a3c2c0c6a",
+        "android_client_info": {
+          "package_name": "com.example.diana_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111377422815-drjq4comjubc6cld8f78l230dg31oghr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBecWB96oYfiK31hGjj4kafPIMx4R2B0zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111377422815-drjq4comjubc6cld8f78l230dg31oghr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

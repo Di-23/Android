@@ -1,0 +1,84 @@
+{
+	"Questions" : {
+	  "1" : {
+	    "question" : "One MB is equal to",
+		"option1" : "1024 Byte",
+		"option2" : "1024 KB",
+		"option3" : "1000 KB",
+		"option4" : "1024 GB",
+		"answer" : "1024 KB"
+	  },
+	  "2" : {
+	    "question" : "On which later TCP is used?",
+		"option1" : "Session layer",
+		"option2" : "Transport layer",
+		"option3" : "Network layer",
+		"option4" : "Application layer",
+		"answer" : "Transport layer"
+	  },
+	  "3" : {
+	    "question" : "Basic architecture of computer was developed by",
+		"option1" : "John Von Neumann",
+		"option2" : "Charles Babbage",
+		"option3" : "Blaise Pascal",
+		"option4" : "Garden Moore",
+		"answer" : "John Von Neumann"
+	  },
+	  "4" : {
+	    "question" : "In how many generations a computer can be classified?",
+		"option1" : "3",
+		"option2" : "4",
+		"option3" : "5",
+		"option4" : "6",
+		"answer" : "5"
+	  },
+	  "5" : {
+	    "question" : "Fifth generation computers are based on",
+		"option1" : "Artificial intelligence",
+		"option2" : "Programming intelligence",
+		"option3" : "System knowledge",
+		"option4" : "VVLSI",
+		"answer" : "Artificial intelligence"
+	  },
+	  "6" : {
+	    "question" : "GUI stands for",
+		"option1" : "Graph Use Interface",
+		"option2" : "Graphical User Interface",
+		"option3" : "Graphical Unique Interface",
+		"option4" : "None of these",
+		"answer" : "Graphical User Interface"
+	  },
+	  "7" : {
+	    "question" : "Time during which a job is proccessed by the computer is",
+		"option1" : "Execution time",
+		"option2" : "Delay time",
+		"option3" : "Real time",
+		"option4" : "Waiting time",
+		"answer" : "Waiting time"
+	  },
+	  "8" : {
+	    "question" : "An error is also known as",
+		"option1" : "Debug",
+		"option2" : "Bug",
+		"option3" : "Cursor",
+		"option4" : "Icon",
+		"answer" : "Bug"
+	  },
+	  "9" : {
+	    "question" : "Microsoft Word is an example of",
+		"option1" : "an operating system",
+		"option2" : "processing device",
+		"option3" : "application software",
+		"option4" : "an input device",
+		"answer" : "application software"
+	  },
+	  "10" : {
+	    "question" : "Who invented the super computer?",
+		"option1" : "PT Fransworth",
+		"option2" : "JH Van Tassell",
+		"option3" : "Charles Ginsberg",
+		"option4" : "Charles Babbage",
+		"answer" : "JH Van Tassell"
+	  }
+	}
+}
